@@ -1,14 +1,14 @@
-Description:
+# Description:
 
 This is a complete and error-free Quiz Game in C . In this project, a number of questions are asked, and the user is awarded cash for each correct answer given.
 
 
-Identifying Features:
+# Identifying Features:
 
 Questions are selected in such a way that they cover all fields of a common quiz contest. The player's basic knowledge is evaluated with questions related to science, technology, movies, sports, general health, geography and many more.
 
 
-High Level Requirements:
+# High Level Requirements:
 
 This quiz game consists of 2 rounds - Warmup round and challenge round. The user has to pass the first round to get to the 2nd one
 
@@ -17,7 +17,7 @@ The player is able to enter a name, see the highest score, or even reset the sco
 With each score gained in the challenge round the player will be awarded a cash prize, the final winning amount being 10 lakhs.
 
 
-Low Level Requirements:
+# Low Level Requirements:
 
 modify score – adds the current monetary award received to the previous one when a question is correctly answered.
 
@@ -30,7 +30,7 @@ show record – displays the highest cash prize won by a specific user show.
 score – displays the highest score/cash prize won by a specific user.
 
 
-SWOT ANALYSIS:
+# SWOT ANALYSIS:
 
 STRENGTH: Error free quiz game. Scores and prizes are alloted acordingly to the program. Completely unmanned which leads to no human error.
 
@@ -41,7 +41,7 @@ OPPURTUNITIES: Player participation increases as it is simple and easy to use. T
 THREATS: A bug or hacker who may disrupt the program.
 
 
-Best Methods:
+# Best Methods:
 
 This project is divided into many functions, and some of the best methods are listed below 
 
